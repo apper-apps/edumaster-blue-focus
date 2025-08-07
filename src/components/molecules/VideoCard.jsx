@@ -9,11 +9,9 @@ const VideoCard = ({ video, onEdit, onDelete, showActions = false }) => {
   
   const getYoutubeThumbnail = (url) => {
     if (!url) return "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80";
-    
-    let videoId = null;
-    const regex = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/;
+let videoId = null;
+    const regex = /(?:youtube\.com\/(?:[^/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?/\s]{11})/;
     const match = url.match(regex);
-    
     if (match && match[1]) {
       videoId = match[1];
       return `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
