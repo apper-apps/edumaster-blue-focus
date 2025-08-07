@@ -1,0 +1,162 @@
+[
+  {
+    "Id": 1,
+    "title": "React 완벽 마스터 코스",
+    "description": "React의 기초부터 고급 기능까지 완벽하게 학습할 수 있는 종합 강의입니다. 실무에서 바로 사용할 수 있는 실전 프로젝트를 통해 React 개발 실력을 향상시켜보세요.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "type": "membership",
+    "allowedRoles": ["member", "both", "admin"],
+    "isPinned": true,
+    "createdAt": "2024-01-15T09:00:00.000Z",
+    "videos": [
+      {
+        "title": "React 소개 및 환경 설정",
+        "url": "https://www.youtube.com/watch?v=Tn6-PIqc4UM"
+      },
+      {
+        "title": "컴포넌트와 JSX 이해하기",
+        "url": "https://www.youtube.com/watch?v=SqcY0GlETPk"
+      },
+      {
+        "title": "State와 Props 활용법",
+        "url": "https://www.youtube.com/watch?v=4UZrsTqkcW4"
+      },
+      {
+        "title": "이벤트 핸들링과 라이프사이클",
+        "url": "https://www.youtube.com/watch?v=Kre0K8zP-yQ"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "title": "Node.js 백엔드 개발",
+    "description": "Node.js와 Express를 활용한 서버 개발의 모든 것을 배웁니다. RESTful API 설계부터 데이터베이스 연동까지 실무 중심의 백엔드 개발 강의입니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "type": "membership",
+    "allowedRoles": ["member", "both", "admin"],
+    "isPinned": false,
+    "createdAt": "2024-01-12T14:30:00.000Z",
+    "videos": [
+      {
+        "title": "Node.js 기초와 모듈 시스템",
+        "url": "https://www.youtube.com/watch?v=TlB_eWDSMt4"
+      },
+      {
+        "title": "Express 서버 구축하기",
+        "url": "https://www.youtube.com/watch?v=L72fhGm1tfE"
+      },
+      {
+        "title": "데이터베이스 연동과 ORM",
+        "url": "https://www.youtube.com/watch?v=ExcRbA7fy_A"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "title": "AI와 머신러닝 마스터클래스",
+    "description": "인공지능과 머신러닝의 핵심 개념부터 실제 모델 구현까지. Python을 활용한 데이터 분석과 딥러닝 모델 개발을 위한 고급 과정입니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "type": "master",
+    "allowedRoles": ["master", "both", "admin"],
+    "isPinned": true,
+    "createdAt": "2024-01-10T11:15:00.000Z",
+    "videos": [
+      {
+        "title": "머신러닝 기초 이론",
+        "url": "https://www.youtube.com/watch?v=HcqpanDadyQ"
+      },
+      {
+        "title": "Python 데이터 분석 도구",
+        "url": "https://www.youtube.com/watch?v=vmEHCJofslg"
+      },
+      {
+        "title": "딥러닝 모델 구현",
+        "url": "https://www.youtube.com/watch?v=aircAruvnKk"
+      },
+      {
+        "title": "실전 프로젝트: 이미지 분류",
+        "url": "https://www.youtube.com/watch?v=AgkfIQ4IGaM"
+      },
+      {
+        "title": "모델 배포와 최적화",
+        "url": "https://www.youtube.com/watch?v=tpCFfeUEGs8"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "title": "클라우드 아키텍처 설계",
+    "description": "AWS, Azure, GCP 등 주요 클라우드 플랫폼을 활용한 확장 가능한 시스템 아키텍처 설계 방법을 학습합니다. DevOps와 마이크로서비스 패턴까지 다루는 고급 과정입니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "type": "master",
+    "allowedRoles": ["master", "both", "admin"],
+    "isPinned": false,
+    "createdAt": "2024-01-08T16:45:00.000Z",
+    "videos": [
+      {
+        "title": "클라우드 서비스 개요",
+        "url": "https://www.youtube.com/watch?v=mxT233EdY5c"
+      },
+      {
+        "title": "AWS 핵심 서비스",
+        "url": "https://www.youtube.com/watch?v=ulprqHHWlng"
+      },
+      {
+        "title": "마이크로서비스 아키텍처",
+        "url": "https://www.youtube.com/watch?v=CdBtNQZH8a4"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "title": "JavaScript ES6+ 심화 과정",
+    "description": "모던 JavaScript의 고급 기능들을 깊이 있게 학습합니다. ES6+의 새로운 기능부터 비동기 프로그래밍, 함수형 프로그래밍 패러다임까지 다룹니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "type": "membership",
+    "allowedRoles": ["member", "both", "admin"],
+    "isPinned": false,
+    "createdAt": "2024-01-05T13:20:00.000Z",
+    "videos": [
+      {
+        "title": "ES6 새로운 문법들",
+        "url": "https://www.youtube.com/watch?v=nZ1DMMsyVyI"
+      },
+      {
+        "title": "Promise와 async/await",
+        "url": "https://www.youtube.com/watch?v=DHvZLI7Db8E"
+      },
+      {
+        "title": "함수형 프로그래밍 개념",
+        "url": "https://www.youtube.com/watch?v=e-5obm1G_FY"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "title": "블록체인 개발 입문",
+    "description": "블록체인의 기본 원리부터 스마트 컨트랙트 개발까지. Solidity를 활용한 DApp 개발과 Web3 생태계에 대한 이해를 높이는 과정입니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "type": "master",
+    "allowedRoles": ["master", "both", "admin"],
+    "isPinned": false,
+    "createdAt": "2024-01-03T10:10:00.000Z",
+    "videos": [
+      {
+        "title": "블록체인 기본 원리",
+        "url": "https://www.youtube.com/watch?v=hYip_Vuv8J0"
+      },
+      {
+        "title": "Ethereum과 스마트 컨트랙트",
+        "url": "https://www.youtube.com/watch?v=M576WGiDBdQ"
+      },
+      {
+        "title": "Solidity 프로그래밍",
+        "url": "https://www.youtube.com/watch?v=ipwxYa-F1uY"
+      },
+      {
+        "title": "DApp 개발 실습",
+        "url": "https://www.youtube.com/watch?v=coQ5dg8wM2o"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "userId": "user1",
+    "content": "EduMaster의 React 강의를 통해 실무에 바로 적용할 수 있는 실력을 기를 수 있었습니다. 특히 프로젝트 기반 학습이 정말 도움이 되었어요. 현재 스타트업에서 프론트엔드 개발자로 일하고 있습니다!",
+    "isPinned": true,
+    "isHidden": false,
+    "createdAt": "2024-01-20T14:30:00.000Z"
+  },
+  {
+    "Id": 2,
+    "userId": "user2",
+    "content": "클라우드 아키텍처 과정이 정말 체계적이었습니다. 이론만이 아니라 실제 AWS 환경에서 직접 실습할 수 있어서 이해도가 높아졌어요. 덕분에 시니어 개발자로 승진할 수 있었습니다.",
+    "isPinned": false,
+    "isHidden": false,
+    "createdAt": "2024-01-19T09:15:00.000Z"
+  },
+  {
+    "Id": 3,
+    "userId": "user3",
+    "content": "JavaScript 심화 과정에서 배운 함수형 프로그래밍 개념들이 실무에서 코드 품질을 크게 향상시켜주었습니다. 특히 비동기 처리 부분이 매우 유용했어요!",
+    "isPinned": true,
+    "isHidden": false,
+    "createdAt": "2024-01-18T16:45:00.000Z"
+  },
+  {
+    "Id": 4,
+    "userId": "user4",
+    "content": "AI 마스터클래스를 수강한 후, 회사에서 머신러닝 프로젝트를 맡게 되었습니다. 강의에서 배운 내용을 바탕으로 성공적으로 프로젝트를 완료할 수 있었어요.",
+    "isPinned": false,
+    "isHidden": false,
+    "createdAt": "2024-01-17T11:20:00.000Z"
+  },
+  {
+    "Id": 5,
+    "userId": "user5",
+    "content": "처음에는 막막했던 백엔드 개발이 Node.js 강의를 통해 체계적으로 익힐 수 있었습니다. 현재는 풀스택 개발자로 일하고 있어요. 정말 감사합니다!",
+    "isPinned": false,
+    "isHidden": false,
+    "createdAt": "2024-01-16T13:10:00.000Z"
+  },
+  {
+    "Id": 6,
+    "userId": "user6",
+    "content": "블록체인 개발 과정이 정말 흥미로웠습니다. DApp 개발 실습을 통해 Web3 생태계에 대한 이해를 높일 수 있었어요. 새로운 분야에 도전할 용기를 얻었습니다.",
+    "isPinned": false,
+    "isHidden": false,
+    "createdAt": "2024-01-15T08:30:00.000Z"
+  },
+  {
+    "Id": 7,
+    "userId": "user7",
+    "content": "강의 품질이 정말 뛰어나고, 강사분들의 설명이 매우 명확해서 이해하기 쉬웠습니다. 특히 Q&A를 통해 궁금한 점을 바로 해결할 수 있어서 좋았어요.",
+    "isPinned": false,
+    "isHidden": false,
+    "createdAt": "2024-01-14T15:25:00.000Z"
+  },
+  {
+    "Id": 8,
+    "userId": "user8",
+    "content": "초보자도 쉽게 따라할 수 있도록 구성된 커리큘럼이 인상적이었습니다. 단계별로 차근차근 학습할 수 있어서 포기하지 않고 끝까지 완주할 수 있었어요.",
+    "isPinned": true,
+    "isHidden": false,
+    "createdAt": "2024-01-13T12:40:00.000Z"
+  }
+]
